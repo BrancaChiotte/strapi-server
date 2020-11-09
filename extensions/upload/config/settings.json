@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "brancachiotte",
+    "api_key": "697388271195978",
+    "api_secret": "QLX70eRVxiWdr1UGUCX3mXUK2r4"
+  }
+}
